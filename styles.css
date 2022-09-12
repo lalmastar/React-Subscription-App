@@ -1,0 +1,29 @@
+.container{  
+    display: grid;
+    border-radius: 11px;
+    grid-template-columns:100%;
+    background-color: #073153;
+    padding: 10px;
+}
+.card-details{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.community{ 
+    text-align: center;
+    background-color:rgb(255, 253, 253);
+}
+.why-us{
+    text-align: center;
+    background-color: rgba(85, 145, 142, 0.698);
+}
+.card{
+    text-align: center;
+    background-color: rgb(15, 67, 66);
+}
+.community-header{
+    color: rgb(22, 138, 164);
+}
+.community-sub-header{
+    color: green;
+}
